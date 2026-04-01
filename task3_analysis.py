@@ -35,7 +35,7 @@ top_post_comments = df.iloc[max_comments_idx]['num_comments']
 print(f"\nMost commented post: \"{top_post_title}\" — {top_post_comments} comments")
 #add new columns
 df['engagement'] = df['num_comments'] / (df['score']+1)
-df['popular'] = df['score'] > avg_score
+df['is_popular'] = df['score'] > avg_score
 #save the result
 output_path = "data/trends_analysed.csv"
 
