@@ -1,4 +1,4 @@
-post_id,title,subreddit,score,num_comments,author,collected_at,engagement,popular
+post_id,title,subreddit,score,num_comments,author,collected_at,engagement,is_popular
 1s942fa,CEO of America’s largest public hospital system says he’s ready to replace radiologists with AI,technology,5740,837,Apprehensive-Safe382,2026-04-01 12:15:57,0.1457934157812228,True
 1s95wqn,Another Starlink satellite has inexplicably exploded,technology,3562,382,Low-Win-6691,2026-04-01 12:15:57,0.10721302273365142,False
 1s8ua7r,"Iran Threatens to Attack U.S. Tech Companies Starting April 1 / Iran says it will target Apple, Google, and Microsoft, among others.",technology,25071,2298,MarvelsGrantMan136,2026-04-01 12:15:57,0.09165603063178047,True
